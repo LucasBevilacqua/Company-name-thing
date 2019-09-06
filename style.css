@@ -1,0 +1,59 @@
+html{
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-style: solid;
+    border-color: purple;
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+hr{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.login{
+    background-color: purple;
+    border-style: solid;
+    border-color: purple;
+    border-width: 2px;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.empty{
+    padding-right: 150px;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    margin-left: 5px;
+}
+
+.logo{
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.georgia{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
